@@ -1,16 +1,22 @@
-### Hi there 👋
+### ABOUT 🧩
 
-<!--
-**Dejv1s/Dejv1s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+``` csharp
+{
+public sealed class About() {
+    public string Name { get; set; }
+    public string Projects { get; set; }
+    public string Description { get; set; }
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+public static async Task Main(string[] args)
+{
+    About myProfile = new About()
+    {
+        Name = "Dejv."
+        Projects = "Arc. & Project0"
+        Description = "C# & Web Developer"
+    }
+}
+}
+
