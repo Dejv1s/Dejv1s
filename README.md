@@ -1,7 +1,7 @@
 ### ABOUT 🧩
 
 
-``` csharp
+```csharp
 {
 public sealed class About() {
     public string Name { get; set; }
@@ -18,7 +18,10 @@ public static async Task Main(string[] args)
         Description = "C# & Web Developer"
     }
 }
-}```
+}
+```
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dejv1s&theme=dark)](https://git.io/streak-stats)
+### STATS 🔥
+
+                                 [![GitHub Streak](https://streak-stats.demolab.com?user=Dejv1s&theme=dark)](https://git.io/streak-stats)
 
