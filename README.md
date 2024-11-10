@@ -18,5 +18,6 @@ public static async Task Main(string[] args)
         Description = "C# & Web Developer"
     }
 }
-}
+}```
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
