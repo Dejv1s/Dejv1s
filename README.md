@@ -19,4 +19,5 @@ public static async Task Main(string[] args)
     }
 }
 }```
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Dejv1s](https://git.io/streak-stats)
 
