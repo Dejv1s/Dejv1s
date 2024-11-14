@@ -19,7 +19,6 @@ public static async Task Main(string[] args)
         Description = "C# & Web Developer"
     }
 }
-}
 ```
 
 ### STATS 🔥
