@@ -2,8 +2,9 @@
 
 
 ```csharp
+
+public sealed class About()
 {
-public sealed class About() {
     public string Name { get; set; }
     public string Projects { get; set; }
     public string Description { get; set; }
