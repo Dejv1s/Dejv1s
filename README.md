@@ -23,5 +23,5 @@ public static async Task Main(string[] args)
 
 ### STATS 🔥
 
-                                 [![GitHub Streak](https://streak-stats.demolab.com/?user=Dejv1s)](https://git.io/streak-stats)
+                                 [![GitHub Streak](https://streak-stats.demolab.com?user=Dejv1s&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
